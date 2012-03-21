@@ -1,0 +1,5 @@
+How to build
+
+1 Please install "theos" form here(https://github.com/DHowett/theos) if you not theos
+2 Get ios5 private headers from here(https://github.com/mattlawer/iOS5-Private-Frameworks) then put them in to your-theos-installed-folder/include/
+3 cd 'your-folder'/iPhoneCallAttribution/ then run make 
